@@ -14,3 +14,6 @@ Returns:
 ```haskell
 Right (Function (Name "pow") (Global Near CDecl) Double_ [Double_,Double_])
 ```
+## TODO:
+* Thunks
+* Virtual Function Tables
